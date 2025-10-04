@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;800;900&display=swap);
+.container{
+    width: 1920px;
+    height: 1000000px;
+    margin: 0 auto;
+}
+body{
+    font-family: "Monsterrat Alternates", sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+.why-we{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    height: 800px;
+    background: #FFF8E9;
+    margin: 0 auto;
+}
+.courier{
+    background: #410000;
+    display: flex;
+    width: 1357.7730712890625px;
+    height: 700px;
+}
+.text{  
+    width: 721px;
+    height: 239px;
+    background: #000;
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.button{
+    background: #e2a704;
+    width: 350px;
+    height: 75px;
+    border-radius: 999px;
+    justify-content: flex-end;
+}   
