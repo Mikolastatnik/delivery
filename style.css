@@ -22,7 +22,7 @@ body{
     margin: 0 auto;
 }
 .courier{
-    background: #410000;
+    background: #ffffff;
     display: flex;
     width: 1357.7730712890625px;
     height: 700px;
@@ -30,7 +30,7 @@ body{
 .text{  
     width: 721px;
     height: 239px;
-    background: #000;
+    background: #ffffff;
 }
 .image{
     display: flex;
